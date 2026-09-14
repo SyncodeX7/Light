@@ -30,7 +30,7 @@ Light is a peer-to-peer coding partner, shell assistant, and low-profile digital
 Ensure you have Go installed on your system, then clone, build, and move the binary to your path:
 
 ```bash
-git clone [https://github.com/yourusername/light.git](https://github.com/yourusername/light.git)
+git clone [https://github.com/SyncodeX7/light.git](https://github.com/SyncodeX7/light.git)
 cd light
 go build -ldflags="-s -w" -o light main.go
 sudo mv light /usr/local/bin/
